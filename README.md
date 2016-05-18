@@ -1,1 +1,1 @@
-# test_repository
+# repository_for_training
